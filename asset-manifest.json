@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://olgakotoulova.github.io/csb-q04ges/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://olgakotoulova.github.io/csb-q04ges/static/js/main.16987284.chunk.js",
+    "main.js.map": "https://olgakotoulova.github.io/csb-q04ges/static/js/main.16987284.chunk.js.map",
+    "runtime-main.js": "https://olgakotoulova.github.io/csb-q04ges/static/js/runtime-main.1f3e28c6.js",
+    "runtime-main.js.map": "https://olgakotoulova.github.io/csb-q04ges/static/js/runtime-main.1f3e28c6.js.map",
+    "static/js/2.8dafdefa.chunk.js": "https://olgakotoulova.github.io/csb-q04ges/static/js/2.8dafdefa.chunk.js",
+    "static/js/2.8dafdefa.chunk.js.map": "https://olgakotoulova.github.io/csb-q04ges/static/js/2.8dafdefa.chunk.js.map",
+    "index.html": "https://olgakotoulova.github.io/csb-q04ges/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://olgakotoulova.github.io/csb-q04ges/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8dafdefa.chunk.js.LICENSE.txt": "https://olgakotoulova.github.io/csb-q04ges/static/js/2.8dafdefa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f3e28c6.js",
+    "static/js/2.8dafdefa.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.16987284.chunk.js"
+  ]
+}
